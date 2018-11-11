@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: "Your Awesome Site"
+title: "WeeBuy"
 excerpt: "A Coming Soon Template"
 ---
 # Website is coming soon
