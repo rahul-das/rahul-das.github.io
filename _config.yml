@@ -1,25 +1,25 @@
 # Site wide configuration
 
-title: "Your Awesome Site"
-description: "A Coming Soon Template"
+title: "WeeBuy"
+description: "Buy Local, Buy desi"
 #if you modify locale please have a look at _data/messages.yml too
 locale: en
 #for meta name="author" :
-author: 
+author:
 
 #Target date in UTC / GMT
 countdown:
-  theme: red
-  year: 2020
-  month: 1
+  theme: blue
+  year: 2019
+  month: 4
   day: 1
   hour: 0
   minute: 0
 
 # Site owner
 owner:
-  name:
-  email:
+  name: Dibon Biswas
+  email: dibon.biswas@weebuy.in
   twitter:
   google-plus:
   instagramm:
