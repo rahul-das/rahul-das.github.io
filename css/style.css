@@ -56,7 +56,7 @@ header i.fa {
 header h2 {
     font-family: 'Open Sans';
     font-weight: 800;
-    color: white;
+    color: crimson;
     /* text-transform: uppercase; */
     font-weight: bold;
     font-size: 36px;
@@ -67,11 +67,11 @@ header p {
     font-family: 'Open Sans';
     font-size: 18px;
     text-transform: capitalize;
-    color: white;
+    color: crimson;
 }
 
 .color {
-    background-color: #f64747
+    background-color: #ffff
 }
 
 .ss-style-doublediagonal {
