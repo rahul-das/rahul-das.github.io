@@ -1,8 +1,9 @@
 ---
 layout: default
-img: ipad.png
+img: graphic-designer.jpg
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Graphic Designer (UI/UX)
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+Translate concepts into user flows, wireframes, mockups and prototypes that lead to intuitive user experiences.<br/>
+<i><b>Skills Required: Adobe Photoshop, Illustrator, Basic HTML5, CSS3, and JavaScript</b></i>
