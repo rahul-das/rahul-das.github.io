@@ -1,32 +1,35 @@
-# YAX-Coming-soon-Jekyll-Template
-Free Bootstrap HTML5 CSS3 Responsive Coming soon  Jekyll template
+# Landing Page Jekyll theme
 
-Designed by : Ilya B.  
-url: https://www.behance.net/gallery/18421675/Free-Bootstrap-Psd-Coming-Soon-Template  
+Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
 
-Converted PSD to HTML/CSS by:  
-Morteza Aghili  
-bio: http://mortezaaghili.github.io/  
+## How to use
+ - Place a image in `/img/services/`
+ - Create posts to display your services. Use the follow as an example:
 
-Adpated to Jekyll by [yonojoy](https://github.com/yonojoy)
+```txt
+---
+layout: default
+img: ipad.png
+category: Services
+title: The service title
+---
+The description of this service
+```
 
-## Usage
-Edit `index.md` to contain your message.
+## Demo
+View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
 
-Edit `_config.yml` and add the following params:
+## Screenshot
+![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/screenshot.png)
 
-* `countdown` to contain the target date in GMT/UTC
-* `owner` to contain infos about the site owner.
+===
 
-That's it.
+For more Jekyll details, read [documentation](http://jekyllrb.com/).
+This Jekyll theme used [Freelancer Jekyll theme](https://github.com/jeromelachaud/freelancer-theme/) as reference.
 
-## Installation
+## License
+The contents of this repository are licensed under the [Apache
+2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
 
-Requires [Jekyll](http://jekyllrb.com/) 3+. 
-
-If you are creating a new Jekyll site using Skinny Bones following these steps:
-
-1. Download and unzip.
-2. Run `bundle install` to install all dependencies 
-3. Update `_config.yml` and `index.md` as described above.
-
+## Version
+1.0.1
